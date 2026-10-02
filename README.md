@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anjimedidi/anjimedidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Somewhere between logic and lore.
 
-Here are some ideas to get you started:
+**Building with logic. Writing into the unknown.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### Behind the commits
+
+I'm Nani — an engineer, a storyteller, and a curious mind
+with a few unfinished worlds.
+
+- 🔧 Working with RTL, verification, and automation.
+- 🌌 Writing stories where time, mystery, and people collide.
+- 🧩 Following strange bugs and stranger ideas.
+- ✍️ Some projects become code. Others become chapters.
+
+---
+
+<div align="center">
+
+*The commits tell only half the story.*
+
+</div>
