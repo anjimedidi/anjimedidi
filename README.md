@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.gif" width="100%" alt="Beneath the Surface — Nani. VLSI Chip Design and Storytelling. I design chips. I write stories. Both hide more than they reveal." />
+  <img src="assets/hero.gif" width="100%" alt="Beneath the Surface — Anji Medidi. VLSI Chip Design and Storytelling. I design chips. I write stories. Both hide more than they reveal." />
 </p>
 
 <p align="center">
@@ -20,11 +20,15 @@
 <p align="center"><b>VLSI Chip Design Engineer | Automation Builder | Storyteller</b><br />
 Working with RTL IP, verification, and release automation. Writing fiction beyond the clock.</p>
 
-<p align="center">
-<a href="https://github.com/anjimedidi"><img src="https://img.shields.io/badge/GitHub-anjimedidi-181322?style=for-the-badge&amp;logo=github" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=anjimedidi&amp;color=9470b8&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-<!-- Add your verified Email and LinkedIn links here. Coding-platform badges belong here only if you use those accounts. -->
+<div align="center">
+ <p>
+    <a href="mailto:anjimedidi2610@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/anjaneya-medidi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/anjimedidi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=anjimedidi&color=00FFCC&style=flat-square" alt="Visitor Counter" />
+</div>
 
 ## 🚀 About Me
 
