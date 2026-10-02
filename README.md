@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3200&pause=1400&color=9AD9DE&center=true&vCenter=true&width=900&height=65&lines=Every+failure+leaves+a+trace.;Every+character+keeps+a+secret.;I+follow+both." width="100%" alt="Every failure leaves a trace. Every character keeps a secret. I follow both." />
 
-### VLSI Chip Design Engineer · Automation Developer · Fiction Writer
+### VLSI Design Engineer · Automation Developer · Fiction Writer
 
 Tracing failures through waveforms. Building tools around engineering workflows.  
 Writing lives that never existed.
@@ -51,7 +51,7 @@ Writing lives that never existed.
 
 ### 👨‍💻 Who am I?
 
-- ⚡ **VLSI Chip Design Engineer** working with RTL IP release quality, verification, and automation.
+- ⚡ **VLSI Design Engineer** working with RTL IP release quality, verification, and automation.
 - 🔬 Interested in understanding failures through **waveforms, assertions, logs, and reports**.
 - ⚙️ Building and exploring tools for **release checks, regression management, and review workflows**.
 - 📚 Learning protocols alongside the **complete chip design and verification flow**.
@@ -62,7 +62,7 @@ Writing lives that never existed.
 
 ### The person behind the commits
 
-I work in **VLSI Chip Design**, with a focus on RTL IP release quality, verification, and the automation surrounding engineering delivery.
+I work in **VLSI Design**, with a focus on RTL IP release quality, verification, and the automation surrounding engineering delivery.
 
 My work takes me through simulation results, waveforms, static checks, synthesis reports, and the details that decide whether a release is ready.
 
@@ -73,9 +73,9 @@ Away from engineering, I write fiction. I’m drawn to characters with unfinishe
 </td>
 <td width="42%" align="center" valign="middle">
   <img
-    src="assets/profile-scene.gif"
+    src="assets/profile-scene.png"
     width="100%"
-    alt="VLSI chip design workspace with waveforms and a manuscript"
+    alt="VLSI design workspace with waveforms and a manuscript"
   />
 </td></tr>
 </table>
@@ -131,13 +131,21 @@ automation logic, and the small assumptions that turn into large problems.
 
 <!-- Replace the bracketed fields with verified achievements before publishing. -->
 
-| Area | Milestone |
-| :--- | :--- |
-| ⚡ Engineering | [Your engineering achievement or recognition] |
-| ⚙️ Automation | [Tool or workflow improvement, with measured impact] |
-| 🌐 Open Source | [Public contribution or project milestone] |
-| 📚 Learning | [Certification or completed technical project] |
-| ✍️ Writing | [Completed manuscript, publication, or screenplay milestone] |
+## 🏅 Research, Certifications & Leadership
+
+- 📄 **Co-authored two research papers published on IEEE Xplore**:
+  - *Flexible Circuit Designs for M-ary Digital Modulations and Demodulations* — 2023
+  - *High Throughput Circuit Designs of Digital to Analog Converter* — 2023
+- 🔬 **Junior Research Fellow at IIITDM Kurnool**, working on the IHUB-NTIHAC-sponsored project, *Real-time Intelligent System Design for Digital Communication*.
+- ⚙️ Completed **Advanced VLSI Design and Verification training at Maven Silicon**.
+- 📜 Completed Cadence courses in **Digital Design and Verification**, **Functional Safety — ISO 26262 Introduction**, and **Semiconductor 101**.
+- 📚 **Lead, Sahithya — The Literary Club of IIITDM Kurnool**.
+- 🤖 **Robotics Lead, Mech-an-Idea — The Mechanical Society of IIITDM Kurnool**.
+
+### 📑 Research Publications
+
+1. [Flexible Circuit Designs for M-ary Digital Modulations and Demodulations](https://ieeexplore.ieee.org/document/10253132)
+2. [High Throughput Circuit Designs of Digital to Analog Converter](https://ieeexplore.ieee.org/document/10127011)
 
 ---
 
@@ -287,250 +295,6 @@ Project-specific experience will be added here as it develops.
 
 ---
 
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
-
-<div align="center">
-
-## 💼 Featured Projects
-
-**ENGINEERING IN PROGRESS / WORLDS UNDER CONSTRUCTION**
-
-</div>
-
-*These are tools, projects, and concepts in development.
-Public repository links will be added when available.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Release Dashboard
-
-A dashboard concept for following upcoming IP releases,
-check completion, ownership, and review progress.
-
-<p>
-  <code>Release Tracking</code>
-  <code>Automation</code>
-  <code>Reporting</code>
-</p>
-
-**Planned capabilities**
-- Consolidated release status
-- Visibility into pending checks
-- Ownership and review tracking
-- Less manual status collection
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Regression Manager
-
-A desktop tool project for navigating testcase results,
-logs, and failures from a central interface.
-
-<p>
-  <code>Python</code>
-  <code>PyQt5</code>
-  <code>Regression</code>
-</p>
-
-**Development goals**
-- Clear testcase status
-- Direct access to logs
-- Failure-focused navigation
-- Easier result review
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🕵️ Peer Review Agent
-
-A workflow concept connecting report inputs,
-delivery checklists, reviewers, and completion status.
-
-<p>
-  <code>Review Workflows</code>
-  <code>Checklists</code>
-  <code>Automation</code>
-</p>
-
-**Planned capabilities**
-- Track review inputs and ownership
-- Follow acknowledgement and progress
-- Handle missing-information requests
-- Summarize completed reviews
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Technical Document Assistant
-
-A document RAG concept for navigating technical material,
-finding relevant passages, and supporting automation work.
-
-<p>
-  <code>RAG</code>
-  <code>AI Assistants</code>
-  <code>Documentation</code>
-</p>
-
-**Exploration goals**
-- Retrieve relevant source material
-- Answer document-based questions
-- Navigate large technical references
-- Support documentation-driven scripting
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧰 Script Testing Toolkit
-
-A tooling project around running engineering scripts
-with controlled inputs and making their results easier to inspect.
-
-<p>
-  <code>Python</code>
-  <code>PyQt5</code>
-  <code>Script Testing</code>
-</p>
-
-**Development goals**
-- Guided script execution
-- Repeatable test inputs
-- Clear execution output
-- Faster iteration on automation
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Engineering Assistant
-
-An assistant concept combining voice interaction,
-technical information retrieval, and office workflow support.
-
-<p>
-  <code>Voice Interface</code>
-  <code>AI</code>
-  <code>Engineering Workflows</code>
-</p>
-
-**Exploration goals**
-- Natural interaction
-- Technical knowledge access
-- Analysis and workflow support
-- A useful desktop experience
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════ CREATIVE PROJECTS ═══════════════════ -->
-
-<div align="center">
-
-## 🌘 Beyond the Workbench
-
-*Some projects run on clocks. Others bend time.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### THE TWILIGHT
-
-**Novel · In development**
-
-A princess displaced into another century.
-A mechanic carrying a past he cannot repair.
-Lives crossing where they should never have met.
-
-A story of time displacement, romance, and mystery.
-
-<p>
-  <code>Fiction</code>
-  <code>Mystery</code>
-  <code>Time Displacement</code>
-</p>
-
-*Some people are never meant to stay.*
-
-</td>
-<td width="50%" valign="top">
-
-### ROOMMATES (101)
-
-**Telugu short film · In development**
-
-Three friends. One small room.
-An ordinary crush subjected to extraordinary overthinking.
-
-A situational comedy built around roommate banter,
-misguided advice, and accidental help.
-
-<p>
-  <code>Telugu</code>
-  <code>Situational Comedy</code>
-  <code>Screenwriting</code>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### BREAK-UP FLAT
-
-**Telugu short film · In development**
-
-Two strangers recovering from breakups become temporary flatmates.
-They agree on one rule: no romance.
-
-A quieter story about companionship,
-recovery, and feelings that arrive without permission.
-
-<p>
-  <code>Telugu</code>
-  <code>Relationships</code>
-  <code>Screenwriting</code>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### THE UNFINISHED PAGE
-
-**Notes · Scenes · Characters**
-
-Conversations waiting for a setting.
-Characters waiting for the right question.
-Ideas that haven't found their ending yet.
-
-The part of the work that happens before
-a story has a name.
-
-<p>
-  <code>Creative Practice</code>
-  <code>Worldbuilding</code>
-  <code>Dialogue</code>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- ═══════════════════ ENGINEERING EXPERIENCE ═══════════════════ -->
 
 ## 🚀 Engineering Experience
@@ -640,8 +404,7 @@ engineering tasks easier to run, inspect, and review.
 
 ### ✍️ Writing
 
-Developing a novel and Telugu screenplays,
-with a focus on character, natural dialogue,
+Developing a novel with a focus on character, natural dialogue,
 mystery, and the consequences of small decisions.
 
 **Technologies & Areas Worked On**
