@@ -9,3 +9,7 @@ The included GIF loops automatically. Both SVG cards are local files. Keep asset
 The badges and live activity graph use third-party image services; their availability can vary. The cinematic header and cards work independently of those services. The activity graph is configured for anjimedidi; it does not require a workflow or a token.
 
 Edit the workbench and open threads to reflect what you want to share publicly. No private project details or contact addresses are included.
+
+## Before publishing
+
+Review the project descriptions and skill lists. Projects are labelled as work in progress. Fill in the Achievements section with real milestones or remove it. Add your actual education, Email, LinkedIn, and optional coding-platform links at the commented locations. Analytics images use external services and have not been verified live in this environment. They can be removed if unavailable.
