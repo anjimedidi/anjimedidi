@@ -20,6 +20,15 @@ Writing lives that never existed.
   </a>
 </p>
 
+<p align="center">
+  <a href="https://anjimedidi.github.io/anjimedidi/">
+    <img
+      src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-101614?style=for-the-badge&logo=githubpages&logoColor=D3E5BB"
+      alt="Explore my portfolio"
+    />
+  </a>
+</p>
+
 <p>
   <a href="mailto:anjimedidi2610@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-242044?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
