@@ -1,196 +1,757 @@
-<p align="center">
-  <img src="assets/hero.gif" width="100%" alt="Beneath the Surface — Anji Medidi. VLSI Chip Design and Storytelling. I design chips. I write stories. Both hide more than they reveal." />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anjimedidi?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_CODE-181322?style=for-the-badge&amp;logo=github&amp;logoColor=c0a3e8" alt="Explore the code" /></a>
-  <img src="https://img.shields.io/badge/VLSI_CHIP_DESIGN-101c24?style=for-the-badge&amp;labelColor=101c24&amp;color=101c24" alt="VLSI Chip Design" />
-  <img src="https://img.shields.io/badge/STORYTELLER-24172e?style=for-the-badge" alt="Storyteller" />
-</p>
-
-<p align="center"><i>The commits tell only half the story.</i></p>
-
-<table>
-<tr>
-<td width="50%"><img src="assets/engineering.svg" width="100%" alt="The engineer: VLSI Chip Design, RTL IP release quality, verification, debugging and automation." /></td>
-<td width="50%"><img src="assets/writing.svg" width="100%" alt="The storyteller: fiction, mystery, time displacement and Telugu screenplays." /></td>
-</tr>
-</table>
-
-<p align="center"><b>VLSI Chip Design Engineer | Automation Builder | Storyteller</b><br />
-Working with RTL IP, verification, and release automation. Writing fiction beyond the clock.</p>
+<!-- ═══════════════════ OPENING FRAME ═══════════════════ -->
 
 <div align="center">
- <p>
-    <a href="mailto:anjimedidi2610@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/anjaneya-medidi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/anjimedidi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=anjimedidi&color=00FFCC&style=flat-square" alt="Visitor Counter" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,50:242044,100:087E8B&height=240&section=header&text=AnjiMedidi&fontSize=85&fontColor=ECE8F4&animation=fadeIn&fontAlignY=38&desc=VLSI%20CHIP%20DESIGN%20%20%2F%20%20AUTOMATION%20%20%2F%20%20FICTION&descSize=17&descAlignY=65" width="100%" alt="Anji Medidi — VLSI Chip Design, Automation, Fiction" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3200&pause=1400&color=9AD9DE&center=true&vCenter=true&width=900&height=65&lines=Every+failure+leaves+a+trace.;Every+character+keeps+a+secret.;I+follow+both." width="100%" alt="Every failure leaves a trace. Every character keeps a secret. I follow both." />
+
+### VLSI Chip Design Engineer · Automation Developer · Fiction Writer
+
+Tracing failures through waveforms. Building tools around engineering workflows.  
+Writing lives that never existed.
+
+<p>
+  <a href="https://github.com/anjimedidi">
+    <img src="https://img.shields.io/badge/GITHUB-anjimedidi-151827?style=for-the-badge&logo=github&logoColor=E6E1F0" alt="GitHub" />
+  </a>
+  <a href="https://github.com/anjimedidi?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-087E8B?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:anjimedidi2610@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-242044?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/anjaneya-medidi/">
+    <img src="https://img.shields.io/badge/LINKEDIN-087E8B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=anjimedidi&color=087e8b&style=flat-square&label=PROFILE+VIEWS" alt="Visitor counter" />
+
 </div>
+
+<br />
+
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+
+<div align="center">
 
 ## 🚀 About Me
 
+**CHIP DESIGN / ENGINEERING TOOLS / STORIES AFTER HOURS**
+
+</div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ### 👨‍💻 Who am I?
 
-- 💻 **VLSI Chip Design Engineer** working with RTL IP release quality, verification, and automation.
-- 🔍 Interested in simulation debugging, waveforms, assertions, and the checks that help make IP delivery reliable.
-- ⚙️ Developing ideas and tools around regression management, release dashboards, and repeatable review flows.
-- 🌱 Learning protocols and the wider chip design and verification flow, from RTL to implementation.
-- ✍️ **Aspiring writer and artist**, writing fiction and developing Telugu short-film scripts.
-- 🌘 Working on **The Twilight**, a story where time, mystery, and lives collide.
+- ⚡ **VLSI Chip Design Engineer** working with RTL IP release quality, verification, and automation.
+- 🔬 Interested in understanding failures through **waveforms, assertions, logs, and reports**.
+- ⚙️ Building and exploring tools for **release checks, regression management, and review workflows**.
+- 📚 Learning protocols alongside the **complete chip design and verification flow**.
+- 🤖 Exploring **document RAG and AI assistants** for engineering work.
+- ✍️ Writing **The Twilight**.
+- 🎓 **B.Tech.** in **Electronics and Communication Engineering with Specialization in Design and Manufacturing (ECE-DM) 2019-2023** from Indian Institute of Information Technology Design and Manufacturing, Kurnool.
+> Curious about how things work—and what happens next.
 
-> I design chips. I write stories. Both hide more than they reveal.
+### The person behind the commits
 
-<!-- Optional education line: add your actual degree, college, and graduation year. -->
+I work in **VLSI Chip Design**, with a focus on RTL IP release quality, verification, and the automation surrounding engineering delivery.
 
-## ⚡ Tech Stack & Engineering Arsenal
+My work takes me through simulation results, waveforms, static checks, synthesis reports, and the details that decide whether a release is ready.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>💻 Languages & scripting</h3>
-<p><code>Python</code> <code>Shell scripting</code></p>
-<h3>🔬 Simulation & debugging</h3>
-<p>Xcelium · SimVision · VCS<br />Waveforms · Assertion failures · Testbench debug</p>
-<h3>🧭 Static checks</h3>
-<p>JasperGold Superlint · JasperGold CDC<br />Lint review · CDC review</p>
-<h3>⚙️ Synthesis & equivalence</h3>
-<p>Genus · Conformal · Vivado<br />Synthesis review · LEC review · Timing debug</p>
+Away from engineering, I write fiction. I’m drawn to characters with unfinished business, mysteries hidden in ordinary places, and time that refuses to move in a straight line.
+
+**A waveform and a story have something in common: the detail you missed can change everything.**
+
 </td>
-<td width="50%" valign="top">
-<h3>🛠️ Development tools</h3>
-<p>Linux · Git · SVN · PyQt5 · ReportLab</p>
-<h3>📦 IP delivery</h3>
-<p>Release checks · Report review · Release notes<br />Documentation checks · Peer review workflows</p>
-<h3>🤖 AI & automation interests</h3>
-<p>AI assistants · Document RAG · Review agents<br />Workflow automation · Automated reporting</p>
-<h3>✍️ Creative toolkit</h3>
-<p>Fiction · Screenwriting · Worldbuilding<br />Character development · Telugu dialogue</p>
-</td>
-</tr>
-</table>
+<td width="42%" align="center" valign="middle">
 
-## 🌱 Currently Exploring
+  <img
+    src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:29213D&height=180&text=LOGIC%20%26%20LORE&fontSize=34&fontColor=E6EDF3&fontAlignY=45&desc=VLSI%20CHIP%20DESIGN%20%2F%20FICTION&descSize=12&descAlignY=70"
+    width="100%"
+    alt="Logic & Lore — VLSI Chip Design and Fiction"
+  />
 
-**Protocols:** PCIe · AXI / AXI-Lite · APB · CXL · USB · Ethernet · SerDes · UCIe
+  <br /><br />
 
-**Design flow:** RTL · SystemVerilog / UVM verification · CDC / RDC · X-prop · Synthesis · STA · LEC · Physical design · DFT / ATPG · IP-XACT
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1500&color=91D7E3&center=true&vCenter=true&width=440&height=55&lines=RTL.+Verification.+Automation.;Characters.+Conflict.+Consequences.;Two+crafts.+One+curious+mind."
+    width="100%"
+    alt="RTL, verification, automation. Characters, conflict, consequences."
+  />
 
-**Automation:** Regression dashboards · Review agents · Document-based assistants · CLI workflows
+  <br />
 
-These are learning interests; the workbench above describes tools and areas I've worked with.
+  <code>DESIGN</code>
+  &nbsp; / &nbsp;
+  <code>DEBUG</code>
+  &nbsp; / &nbsp;
+  <code>WRITE</code>
 
-## 💼 Projects & Work in Progress
-
-The following are projects and ideas I'm developing. Public repository links will be added as they become available.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>📊 Release Dashboard</h3>
-<p>A dashboard concept for upcoming IP releases, check status, and review progress.</p>
-<p><code>Release tracking</code> <code>Automation</code></p>
-<ul><li>Bring release information into one view</li><li>Make pending checks and ownership easier to follow</li></ul>
-</td>
-<td width="50%" valign="top">
-<h3>🧪 Regression Manager</h3>
-<p>A desktop tool project for viewing test status, logs, results, and failures.</p>
-<p><code>Python</code> <code>PyQt5</code> <code>Debugging</code></p>
-<ul><li>Navigate regression results</li><li>Connect failures with their logs</li></ul>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🕵️ Peer Review Agent</h3>
-<p>A workflow concept that brings reports, checklists, and reviewer progress together.</p>
-<p><code>Review automation</code> <code>Checklists</code></p>
-<ul><li>Track report inputs and review status</li><li>Handle requests for missing information</li></ul>
-</td>
-<td width="50%" valign="top">
-<h3>📚 Document Assistant</h3>
-<p>A RAG assistant concept for finding answers in technical documentation and supporting automation work.</p>
-<p><code>RAG</code> <code>Documents</code> <code>AI assistants</code></p>
-<ul><li>Retrieve relevant document passages</li><li>Explore documentation-driven scripting</li></ul>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🌘 The Twilight</h3>
-<p>A novel in progress combining time displacement, romance, and mystery.</p>
-<p><code>Fiction</code> <code>Mystery</code> <code>Worldbuilding</code></p>
-<p><i>Some people arrive in a life they were never meant to enter.</i></p>
-</td>
-<td width="50%" valign="top">
-<h3>🎬 Telugu Short Films</h3>
-<p>Developing stories such as Roommates (101) and Break-Up Flat, built around everyday conversations and relationships.</p>
-<p><code>Screenwriting</code> <code>Telugu</code> <code>Dialogue</code></p>
-<p><i>Small rooms. Complicated people. Plenty left unsaid.</i></p>
 </td>
 </tr>
 </table>
-
-## 🚀 Engineering Experience
-
-My work focuses on RTL IP release quality and the verification and review activities around delivery.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3>🔍 Verification & debug</h3>
-<ul><li>Simulation result review</li><li>Waveform investigation</li><li>Assertion failure analysis</li><li>Testbench failure debug</li><li>Performance test review</li></ul>
-</td>
-<td width="33%" valign="top">
-<h3>📦 Release quality</h3>
-<ul><li>Lint and CDC report review</li><li>Synthesis and LEC status review</li><li>Release notes</li><li>Documentation review</li><li>Delivery checklists</li></ul>
-</td>
-<td width="34%" valign="top">
-<h3>⚙️ Automation</h3>
-<ul><li>Shell and Python scripting</li><li>CLI workflow tools</li><li>Report generation</li><li>Desktop GUI tooling</li><li>Release and regression tooling</li></ul>
-</td>
-</tr>
-</table>
-
-## 🏅 Achievements
-
-<!-- Replace this section with your real achievements. Examples: an award, shipped public tool, accepted contribution, certification, or measurable improvement. Do not publish the reference profile's achievements as your own. -->
-
-*This section is waiting for a few milestones worth sharing.*
-
-## 🏆 Work & Creative Highlights
-
-- Bringing **chip design, verification, and automation** into the same workflow.
-- Exploring tools that make **IP release checks and regression results** easier to manage.
-- Learning protocols through their connection to practical design and verification.
-- Developing a novel and Telugu screenplays alongside engineering work.
-
-<!-- Add verified numbers here when available: time saved, public contributions, completed projects, releases supported, or published writing. -->
-
-## 📈 GitHub Analytics & Open Source Activity
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjimedidi&amp;theme=tokyonight" width="100%" alt="GitHub profile contribution summary" />
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjimedidi&amp;theme=tokyonight" width="48%" alt="Public repositories by language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjimedidi&amp;theme=tokyonight" width="48%" alt="Commits by language" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=anjimedidi&amp;theme=tokyonight&amp;hide_border=true" width="80%" alt="GitHub contribution streak" />
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjimedidi&amp;bg_color=0d0c16&amp;color=b59acb&amp;line=78bccb&amp;point=d5b0ef&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub contribution activity" />
-</p>
-
-## 🌐 Find Me
-
-<p align="center">
-<a href="https://github.com/anjimedidi">GitHub</a> · <a href="https://github.com/anjimedidi?tab=repositories">Repositories</a> · <a href="https://github.com/anjimedidi?tab=stars">Things that caught my eye</a>
-</p>
-
-<!-- Add Email, LinkedIn, portfolio, and writing links once you've supplied the correct URLs. -->
 
 ---
 
-<p align="center"><i>The commits tell only half the story.</i><br /><sub>LOOK CLOSER. THE IMPORTANT PART IS USUALLY QUIET.</sub></p>
+<!-- ═══════════════════ PROBLEM SOLVING ═══════════════════ -->
+
+<div align="center">
+
+## 🧩 Problem Solving & Competitive Programming
+
+*Observe the behaviour. Question the assumption. Find the cause.*
+
+<p>
+  <img src="https://img.shields.io/badge/WAVEFORM-INVESTIGATION-132C36?style=for-the-badge" alt="Waveform investigation" />
+  <img src="https://img.shields.io/badge/ASSERTION-DEBUGGING-242044?style=for-the-badge" alt="Assertion debugging" />
+  <img src="https://img.shields.io/badge/LOGIC-PROBLEM_SOLVING-132C36?style=for-the-badge" alt="Logic and problem solving" />
+</p>
+
+</div>
+
+My problem-solving interests include simulation failures, protocol behaviour,
+automation logic, and the small assumptions that turn into large problems.
+
+<!-- Add coding-platform accounts and verified statistics if you use them.
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-YOUR_COUNT_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/CodeChef-YOUR_RATING-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-YOUR_COUNT_Solved-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.hackerrank.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/HackerRank-YOUR_BADGES-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Fira%20Code" alt="LeetCode statistics" />
+</p>
+-->
+
+---
+
+<!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
+
+## 🏅 Achievements
+
+<!-- Replace the bracketed fields with verified achievements before publishing. -->
+
+| Area | Milestone |
+| :--- | :--- |
+| ⚡ Engineering | [Your engineering achievement or recognition] |
+| ⚙️ Automation | [Tool or workflow improvement, with measured impact] |
+| 🌐 Open Source | [Public contribution or project milestone] |
+| 📚 Learning | [Certification or completed technical project] |
+| ✍️ Writing | [Completed manuscript, publication, or screenplay milestone] |
+
+---
+
+<!-- ═══════════════════ ENGINEERING ARSENAL ═══════════════════ -->
+
+<div align="center">
+
+## ⚡ Tech Stack & Engineering Arsenal
+
+*The tools behind the investigation.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Languages & Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Shell-222938?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell scripting" />
+</p>
+
+**Learning:** Verilog · SystemVerilog · UVM
+
+### 🔬 Simulation & Waveform Debugging
+
+<p>
+  <img src="https://img.shields.io/badge/Xcelium-172B36?style=for-the-badge" alt="Xcelium" />
+  <img src="https://img.shields.io/badge/SimVision-172B36?style=for-the-badge" alt="SimVision" />
+  <img src="https://img.shields.io/badge/VCS-172B36?style=for-the-badge" alt="VCS" />
+</p>
+
+Simulation results · Waveforms · Assertion failures  
+Testbench debugging · Runtime investigation
+
+### 🧭 Static Verification
+
+<p>
+  <img src="https://img.shields.io/badge/JasperGold-29213C?style=for-the-badge" alt="JasperGold" />
+  <img src="https://img.shields.io/badge/Superlint-29213C?style=for-the-badge" alt="Superlint" />
+  <img src="https://img.shields.io/badge/CDC-29213C?style=for-the-badge" alt="CDC" />
+</p>
+
+Lint report review · CDC report review  
+Review observations · Issue follow-up
+
+### ⚙️ Synthesis & Equivalence
+
+<p>
+  <img src="https://img.shields.io/badge/Genus-172B36?style=for-the-badge" alt="Genus" />
+  <img src="https://img.shields.io/badge/Conformal-172B36?style=for-the-badge" alt="Conformal" />
+  <img src="https://img.shields.io/badge/Vivado-172B36?style=for-the-badge" alt="Vivado" />
+</p>
+
+Synthesis review · LEC review · Timing investigation  
+Out-of-context FPGA synthesis
+
+### 🔗 Protocols
+
+**Work context:** PCIe RTL IP delivery
+
+**Learning interests:**  
+AXI / AXI-Lite · APB · CXL · USB  
+Ethernet · SerDes · UCIe
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Interfaces & Desktop Tools
+
+<p>
+  <img src="https://img.shields.io/badge/PyQt5-29213C?style=for-the-badge" alt="PyQt5" />
+  <img src="https://img.shields.io/badge/CLI_Tools-29213C?style=for-the-badge" alt="CLI tools" />
+</p>
+
+Regression interfaces · Status dashboards  
+Script launchers · Guided command-line workflows
+
+### 📊 Data Processing & Reporting
+
+<p>
+  <img src="https://img.shields.io/badge/ReportLab-172B36?style=for-the-badge" alt="ReportLab" />
+  <img src="https://img.shields.io/badge/Log_Analysis-172B36?style=for-the-badge" alt="Log analysis" />
+</p>
+
+Report processing · PDF generation  
+Release summaries · Test status · Debug notes
+
+### 🤖 Artificial Intelligence
+
+**Exploring:**  
+Document RAG · Engineering assistants  
+Review agents · Documentation-driven scripting  
+Technical knowledge retrieval
+
+### ☁️ Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github&theme=dark" alt="Python, Bash, Linux, Git, GitHub" />
+</p>
+
+Linux · Git · GitHub · SVN  
+Script-based setup · Repeatable workflows
+
+### ✍️ Creative Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/FICTION-68518F?style=for-the-badge" alt="Fiction" />
+  <img src="https://img.shields.io/badge/SCREENWRITING-68518F?style=for-the-badge" alt="Screenwriting" />
+</p>
+
+Mystery · Worldbuilding · Character development  
+Telugu dialogue · Time displacement · Romance
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🗄️ Databases & Caching</b></summary>
+<br />
+
+My current exploration is around document retrieval and knowledge assistants.
+Specific database and caching technologies will be added as I use them in projects.
+
+</details>
+
+<details>
+<summary><b>⛓️ Blockchain</b></summary>
+<br />
+
+Outside my current project focus. My engineering work centres on VLSI,
+verification, and automation.
+
+</details>
+
+<details>
+<summary><b>🔐 Security & Access Control</b></summary>
+<br />
+
+A future learning area for connected engineering tools.
+Project-specific experience will be added here as it develops.
+
+</details>
+
+---
+
+<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+
+<div align="center">
+
+## 💼 Featured Projects
+
+**ENGINEERING IN PROGRESS / WORLDS UNDER CONSTRUCTION**
+
+</div>
+
+*These are tools, projects, and concepts in development.
+Public repository links will be added when available.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Release Dashboard
+
+A dashboard concept for following upcoming IP releases,
+check completion, ownership, and review progress.
+
+<p>
+  <code>Release Tracking</code>
+  <code>Automation</code>
+  <code>Reporting</code>
+</p>
+
+**Planned capabilities**
+- Consolidated release status
+- Visibility into pending checks
+- Ownership and review tracking
+- Less manual status collection
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Regression Manager
+
+A desktop tool project for navigating testcase results,
+logs, and failures from a central interface.
+
+<p>
+  <code>Python</code>
+  <code>PyQt5</code>
+  <code>Regression</code>
+</p>
+
+**Development goals**
+- Clear testcase status
+- Direct access to logs
+- Failure-focused navigation
+- Easier result review
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ Peer Review Agent
+
+A workflow concept connecting report inputs,
+delivery checklists, reviewers, and completion status.
+
+<p>
+  <code>Review Workflows</code>
+  <code>Checklists</code>
+  <code>Automation</code>
+</p>
+
+**Planned capabilities**
+- Track review inputs and ownership
+- Follow acknowledgement and progress
+- Handle missing-information requests
+- Summarize completed reviews
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Technical Document Assistant
+
+A document RAG concept for navigating technical material,
+finding relevant passages, and supporting automation work.
+
+<p>
+  <code>RAG</code>
+  <code>AI Assistants</code>
+  <code>Documentation</code>
+</p>
+
+**Exploration goals**
+- Retrieve relevant source material
+- Answer document-based questions
+- Navigate large technical references
+- Support documentation-driven scripting
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 Script Testing Toolkit
+
+A tooling project around running engineering scripts
+with controlled inputs and making their results easier to inspect.
+
+<p>
+  <code>Python</code>
+  <code>PyQt5</code>
+  <code>Script Testing</code>
+</p>
+
+**Development goals**
+- Guided script execution
+- Repeatable test inputs
+- Clear execution output
+- Faster iteration on automation
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Engineering Assistant
+
+An assistant concept combining voice interaction,
+technical information retrieval, and office workflow support.
+
+<p>
+  <code>Voice Interface</code>
+  <code>AI</code>
+  <code>Engineering Workflows</code>
+</p>
+
+**Exploration goals**
+- Natural interaction
+- Technical knowledge access
+- Analysis and workflow support
+- A useful desktop experience
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════ CREATIVE PROJECTS ═══════════════════ -->
+
+<div align="center">
+
+## 🌘 Beyond the Workbench
+
+*Some projects run on clocks. Others bend time.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### THE TWILIGHT
+
+**Novel · In development**
+
+A princess displaced into another century.
+A mechanic carrying a past he cannot repair.
+Lives crossing where they should never have met.
+
+A story of time displacement, romance, and mystery.
+
+<p>
+  <code>Fiction</code>
+  <code>Mystery</code>
+  <code>Time Displacement</code>
+</p>
+
+*Some people are never meant to stay.*
+
+</td>
+<td width="50%" valign="top">
+
+### ROOMMATES (101)
+
+**Telugu short film · In development**
+
+Three friends. One small room.
+An ordinary crush subjected to extraordinary overthinking.
+
+A situational comedy built around roommate banter,
+misguided advice, and accidental help.
+
+<p>
+  <code>Telugu</code>
+  <code>Situational Comedy</code>
+  <code>Screenwriting</code>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### BREAK-UP FLAT
+
+**Telugu short film · In development**
+
+Two strangers recovering from breakups become temporary flatmates.
+They agree on one rule: no romance.
+
+A quieter story about companionship,
+recovery, and feelings that arrive without permission.
+
+<p>
+  <code>Telugu</code>
+  <code>Relationships</code>
+  <code>Screenwriting</code>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### THE UNFINISHED PAGE
+
+**Notes · Scenes · Characters**
+
+Conversations waiting for a setting.
+Characters waiting for the right question.
+Ideas that haven't found their ending yet.
+
+The part of the work that happens before
+a story has a name.
+
+<p>
+  <code>Creative Practice</code>
+  <code>Worldbuilding</code>
+  <code>Dialogue</code>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════ ENGINEERING EXPERIENCE ═══════════════════ -->
+
+## 🚀 Engineering Experience
+
+My work involves RTL IP release quality and the verification,
+reporting, and review activities surrounding delivery.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔬 Simulation & Debug
+
+- Simulation result review
+- Waveform investigation
+- Assertion failure analysis
+- Testbench failure debugging
+- Runtime investigation
+- Performance result review
+
+</td>
+<td width="33%" valign="top">
+
+### 🧭 Static Verification
+
+- Lint report review
+- CDC report review
+- Review observations
+- Issue tracking
+- Follow-up on fixes
+- Qualification status reporting
+
+</td>
+<td width="34%" valign="top">
+
+### ⚙️ Synthesis & Equivalence
+
+- Synthesis report review
+- Timing investigation
+- LEC status review
+- Flow result analysis
+- Tool log inspection
+- Release qualification tracking
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### 📦 IP Delivery
+
+- Delivery checklists
+- Release notes
+- Known limitations
+- Directory and content checks
+- Documentation review
+- Cross-functional review follow-up
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Reporting & Documentation
+
+- Debug summaries
+- Test result summaries
+- Review findings
+- Release status
+- Technical documentation checks
+- PDF report generation
+
+</td>
+<td width="34%" valign="top">
+
+### 🛠️ Automation & Infrastructure
+
+- Python utilities
+- Shell workflows
+- Script-based setup
+- Git and SVN workflows
+- Desktop GUI tooling
+- Release and regression tool development
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════ JOURNEY HIGHLIGHTS ═══════════════════ -->
+
+## 🏆 Engineering & Creative Journey Highlights
+
+My work connects **chip design, verification, and automation**.
+My creative projects give that curiosity somewhere else to go.
+
+### ⚡ Engineering
+
+Working through the details around RTL IP delivery:
+simulation results, static checks, synthesis,
+equivalence status, documentation, and release readiness.
+
+### ⚙️ Automation
+
+Developing tools and exploring workflows that make repetitive
+engineering tasks easier to run, inspect, and review.
+
+### ✍️ Writing
+
+Developing a novel and Telugu screenplays,
+with a focus on character, natural dialogue,
+mystery, and the consequences of small decisions.
+
+**Technologies & Areas Worked On**
+
+Python · Shell scripting · Linux · Git · SVN · PyQt5 · ReportLab  
+Xcelium · SimVision · VCS · JasperGold · Genus · Conformal · Vivado  
+Simulation debug · Lint/CDC review · Synthesis/LEC review  
+Release checks · Technical documentation · Workflow automation
+
+<!-- Add your actual training/placement program name, project counts,
+awards, and measurable outcomes here if applicable. -->
+
+---
+
+<!-- ═══════════════════ LEARNING ROADMAP ═══════════════════ -->
+
+## 📡 The Next Layer
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Protocols & Architecture
+
+PCIe · AXI / AXI-Lite · APB · CXL  
+USB · Ethernet · SerDes · UCIe
+
+Understanding the behaviour first,
+then connecting it to implementation and verification.
+
+</td>
+<td width="50%" valign="top">
+
+### The Complete Chip Flow
+
+RTL · SystemVerilog / UVM · CDC / RDC  
+X-prop · Synthesis · STA · LEC  
+Physical Design · DFT / ATPG · IP-XACT
+
+Building a clearer view of how the stages
+connect and what each stage proves.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
+
+<div align="center">
+
+## 📈 GitHub Analytics & Open Source Activity
+
+*The public trail.*
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjimedidi&theme=tokyonight" width="97%" alt="GitHub profile summary" />
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjimedidi&theme=tokyonight" width="48%" alt="Repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anjimedidi&theme=tokyonight" width="48%" alt="Commits by language" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=anjimedidi&theme=tokyonight&hide_border=true" width="85%" alt="GitHub contribution streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjimedidi&bg_color=0B0D17&color=B6A0DD&line=79C7CF&point=E6D5FA&area=true&hide_border=true" width="97%" alt="GitHub contribution activity" />
+</p>
+
+<!-- Enable after setting up a contribution-snake generation workflow.
+<p>
+  <img src="https://raw.githubusercontent.com/anjimedidi/anjimedidi/output/github-contribution-grid-snake.svg" width="97%" alt="Animated contribution snake" />
+</p>
+-->
+
+</div>
+
+---
+
+<!-- ═══════════════════ CLOSING FRAME ═══════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=2000&color=B6A0DD&center=true&vCenter=true&width=700&lines=The+commits+tell+only+half+the+story." width="100%" alt="The commits tell only half the story." />
+
+[Explore the code](https://github.com/anjimedidi?tab=repositories)
+&nbsp; · &nbsp;
+[Follow the curiosity](https://github.com/anjimedidi?tab=stars)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:087E8B,50:242044,100:070B14&height=100&section=footer" width="100%" alt="" />
+
+</div>
