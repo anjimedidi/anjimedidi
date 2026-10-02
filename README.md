@@ -72,31 +72,12 @@ Away from engineering, I write fiction. I’m drawn to characters with unfinishe
 
 </td>
 <td width="42%" align="center" valign="middle">
-
   <img
-    src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,100:29213D&height=180&text=LOGIC%20%26%20LORE&fontSize=34&fontColor=E6EDF3&fontAlignY=45&desc=VLSI%20CHIP%20DESIGN%20%2F%20FICTION&descSize=12&descAlignY=70"
+    src="assets/profile-scene.gif"
     width="100%"
-    alt="Logic & Lore — VLSI Chip Design and Fiction"
+    alt="VLSI chip design workspace with waveforms and a manuscript"
   />
-
-  <br /><br />
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1500&color=91D7E3&center=true&vCenter=true&width=440&height=55&lines=RTL.+Verification.+Automation.;Characters.+Conflict.+Consequences.;Two+crafts.+One+curious+mind."
-    width="100%"
-    alt="RTL, verification, automation. Characters, conflict, consequences."
-  />
-
-  <br />
-
-  <code>DESIGN</code>
-  &nbsp; / &nbsp;
-  <code>DEBUG</code>
-  &nbsp; / &nbsp;
-  <code>WRITE</code>
-
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
