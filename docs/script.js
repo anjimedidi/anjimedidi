@@ -1,61 +1,17 @@
-const menuButton = document.querySelector('.menu-toggle');
-const mobileNav = document.querySelector('#mobile-nav');
-menuButton.addEventListener('click', () => {
-  const open = menuButton.getAttribute('aria-expanded') !== 'true';
-  menuButton.setAttribute('aria-expanded', String(open));
-  menuButton.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation');
-  mobileNav.hidden = !open;
-});
-mobileNav.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {
-  mobileNav.hidden = true;
-  menuButton.setAttribute('aria-expanded', 'false');
-  menuButton.setAttribute('aria-label', 'Open navigation');
-}));
-document.addEventListener('keydown', event => {
-  if (event.key === 'Escape' && !mobileNav.hidden) {
-    mobileNav.hidden = true;
-    menuButton.setAttribute('aria-expanded', 'false');
-    menuButton.setAttribute('aria-label', 'Open navigation');
-    menuButton.focus();
-  }
-});
+'use strict';
+const menu = document.querySelector('#menu');
+const nav = document.querySelector('#nav');
+menu.addEventListener('click', () => { const open = menu.getAttribute('aria-expanded') !== 'true'; menu.setAttribute('aria-expanded', String(open)); nav.classList.toggle('open', open); });
+nav.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {nav.classList.remove('open');menu.setAttribute('aria-expanded','false');}));
 document.querySelector('#year').textContent = new Date().getFullYear();
-const projects = {
-  release: {
-    label: 'RTL IP RELEASE QUALITY', title: 'From results to release readiness.',
-    intro: 'My work involves quality analysis and review around PCIe RTL IP controller and subsystem releases.',
-    items: ['Review simulation results, performance tests, and known failures.', 'Review lint, CDC, synthesis, and equivalence status.', 'Check delivery contents and technical documentation.', 'Bring findings, limitations, and pending checks into release notes and review discussions.'],
-    note: 'This is an overview of my engineering responsibilities. Customer-specific material is not included.'
-  },
-  debug: {
-    label: 'SIMULATION & INVESTIGATION', title: 'Following the failure.',
-    intro: 'I use simulation output, waveforms, assertions, and tool logs to investigate testbench failures and unexpected behaviour.',
-    items: ['Identify the first useful failure rather than its downstream symptoms.', 'Compare expected activity with observed signal behaviour.', 'Investigate assertion conditions, progress, and timeout behaviour.', 'Summarize the evidence so the next debug step is clear.'],
-    note: 'Tools in my workflow include Xcelium, SimVision, and VCS.'
-  },
-  automation: {
-    label: 'TOOLS & PROJECTS IN DEVELOPMENT', title: 'Making the workflow repeatable.',
-    intro: 'I develop engineering utilities and explore tools that reduce manual work around release and regression flows.',
-    items: ['Python and Shell utilities for setup, checks, and reporting.', 'PyQt5 interfaces for running scripts and reviewing results.', 'Release dashboard and regression manager projects.', 'Peer-review automation and document RAG assistant concepts.'],
-    note: 'The dashboard, regression manager, and AI assistant concepts are at different stages of development; this page does not present them as finished products.'
-  }
+const observer = new IntersectionObserver(entries => { entries.forEach(entry => {if(entry.isIntersecting){nav.querySelectorAll('a').forEach(link => link.classList.toggle('active',link.hash === '#' + entry.target.id));}});},{rootMargin:'-15% 0px -60% 0px'});
+document.querySelectorAll('main section').forEach(section => observer.observe(section));
+const records = {
+ synthesis: {id:'RTL_SYS_001 / IN DEVELOPMENT',title:'RTL-to-gates synthesis flow',content:'<h3>Objective</h3><p>Make a personal RTL synthesis flow easier to configure, run and review across public technology libraries.</p><h3>Workflow</h3><p>RTL and configuration feed the synthesis flow. Technology selection chooses the corresponding SKY130 or Nangate45 library target. Reports provide the evidence for reviewing each run.</p><h3>Current focus</h3><p>Configuration and execution scripts, technology selection, and useful reporting. Measured area, timing and cell results will be added once reproducible public runs are available.</p>'},
+ automation: {id:'AUTO_SYS_002 / DEVELOPMENT DIRECTION',title:'Engineering automation',content:'<h3>Objective</h3><p>Reduce repetitive engineering work and make run status and results easier to understand.</p><h3>Areas of exploration</h3><p>Python and Shell utilities, regression interfaces, checklist workflows and report generation.</p><h3>Evidence to publish</h3><p>Independent source code, example inputs, screenshots and a reproducible usage guide as public implementations become available.</p>'},
+ verification: {id:'VERIFY_SYS_003 / LEARNING DIRECTION',title:'Protocol & verification lab',content:'<h3>Objective</h3><p>Connect protocol theory with practical design and verification, one well-understood block at a time.</p><h3>Areas of study</h3><p>Digital logic, SystemVerilog testbenches, assertions, APB and AXI protocol behavior, and waveform debugging.</p><h3>Evidence to publish</h3><p>Small RTL designs, test scenarios and explanations of the bugs and corner cases they expose. This record describes a learning direction rather than a completed verification environment.</p>'}
 };
 const dialog = document.querySelector('#project-dialog');
-document.querySelectorAll('[data-project]').forEach(button => button.addEventListener('click', () => {
-  const project = projects[button.dataset.project];
-  document.querySelector('#dialog-label').textContent = project.label;
-  document.querySelector('#dialog-title').textContent = project.title;
-  document.querySelector('#dialog-intro').textContent = project.intro;
-  document.querySelector('#dialog-note').textContent = project.note;
-  const list = document.querySelector('#dialog-list');
-  list.replaceChildren(...project.items.map(text => { const li = document.createElement('li'); li.textContent = text; return li; }));
-  dialog.showModal();
-}));
-document.querySelector('.dialog-close').addEventListener('click', () => dialog.close());
-dialog.addEventListener('click', event => { if (event.target === dialog) { const r=dialog.getBoundingClientRect(); if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom) dialog.close(); } });
-if ('IntersectionObserver' in window && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-  const observer = new IntersectionObserver(entries => entries.forEach(entry => {
-    if (entry.isIntersecting) { entry.target.classList.add('visible'); observer.unobserve(entry.target); }
-  }), {threshold: .08});
-  document.querySelectorAll('.section-heading, .work-card, .paper, .timeline article, .tool-grid article, .writing-layout').forEach(element => { element.classList.add('reveal'); observer.observe(element); });
-}
+document.querySelectorAll('[data-project]').forEach(button => button.addEventListener('click', () => {const record=records[button.dataset.project];document.querySelector('#dialog-id').textContent=record.id;document.querySelector('#dialog-title').textContent=record.title;document.querySelector('#dialog-content').innerHTML=record.content;dialog.showModal();}));
+dialog.querySelector('.close').addEventListener('click',()=>dialog.close());
+dialog.addEventListener('click',event=>{if(event.target===dialog){const r=dialog.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)dialog.close();}});
